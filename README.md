@@ -27,6 +27,6 @@ Only download cards from the given set. There can be multiple of these
 
 Restart the download from card ###, used when errors/lag cause the program to terminate early, in which case it will tell you which number to use here.
 
-So for example using "node forgeLoad -f KOD LVS STN" will generate all the card skeleton files for KOD, LVS, and STN.
+So for example using `node forgeLoad -f KOD LVS STN` will generate all the card skeleton files for KOD, LVS, and STN.
 
 Card images are saved within set folders in the 'images' folder, card skeletons are saved in set folders in the 'skeletons' folder, or to the 'completed' folder if they are vanilla/french vanilla creatures, which LackeyBot is able to code on its own.
