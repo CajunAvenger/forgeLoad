@@ -163,6 +163,10 @@ function forgeAbilities(cardText, cardName) {
 	return [output, finished];
 }
 function convertKeywords(word) {
+	if(word == "CARDNAME can't be blocked.")
+		return "Unblockable";
+	if(word == "CARDNAME can't block or be blocked.")
+		return "Unblockable\nK:CARDNAME can't block.";
 	if(word.match("CARDNAME"))
 		return word;
 	return toTitleCase(word);
