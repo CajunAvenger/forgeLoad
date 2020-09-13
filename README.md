@@ -23,9 +23,9 @@ Only downloads card images
 
 Only download cards from the given set. There can be multiple of these
 
-> -r #
+> -r ###
 
-Restart the download from card i, used when errors/lag cause the program to terminate early
+Restart the download from card ###, used when errors/lag cause the program to terminate early, in which case it will tell you which number to use here.
 
 So for example using "node forgeLoad -f KOD LVS STN" will generate all the card skeleton files for KOD, LVS, and STN.
 
