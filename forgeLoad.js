@@ -140,7 +140,7 @@ function forgeSkeletonWriter(card) {
 }
 function forgeAbilities(cardText, cardName) {
 	let finished = true;
-	let trimmedText = cardText.replace(/\([^)]+/);
+	let trimmedText = cardText.replace(/\([^)]+\)/g, "");
 	if(trimmedText == "" || trimmedText == "\n")
 		return ["", true];
 	let CARDNAME = new RegExp(cardName, 'g');
