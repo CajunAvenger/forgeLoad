@@ -227,11 +227,11 @@ function downloadCard(errCount) {
 			let skeleData = forgeSkeletonWriter(cards[card]);
 			let dir = "/" + pullTokenSet(cards[card], setsArray) + "/";
 			if(!skeleData[1]) {
-				dir = "/skeletons" + dir;
+				dir = "./skeletons" + dir;
 			}else{
-				dir = "/completed" + dir;
+				dir = "./completed" + dir;
 			}
-			writeFile(__dirname + dir + skeleName+'.txt', skeleData[0].replace(/\n/g, "\r\n"), function(e){if (e) console.log(e)});
+			writeFile(dir + skeleName+'.txt', skeleData[0].replace(/\n/g, "\r\n"), function(e){if (e) console.log(e)});
 		}
 		if(generateImages) {
 			let extension = cards[card].setID + "/" + cards[card].cardID;

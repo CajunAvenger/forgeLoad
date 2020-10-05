@@ -1,0 +1,24 @@
+{
+  "name": "forgeload",
+  "version": "1.0.0",
+  "description": "A program for downloading and generating files for Forge.",
+  "main": "forgeLoad.js",
+  "bin": "forgeLoad.js",
+  "dependencies": {
+    "download-file": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node forgeLoad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CajunAvenger/forgeLoad.git"
+  },
+  "author": "cajun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CajunAvenger/forgeLoad/issues"
+  },
+  "homepage": "https://github.com/CajunAvenger/forgeLoad#readme"
+}
