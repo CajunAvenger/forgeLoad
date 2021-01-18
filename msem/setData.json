@@ -8,7 +8,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "AFM":{
 	"longname":"Aftermath",
@@ -19,7 +19,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "ALR":{
 	"longname":"Alara",
@@ -30,7 +30,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "ATB":{
 	"longname":"Al Tabaq",
@@ -41,7 +41,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "CAC":{
 	"longname":"Carpe Arcanum",
@@ -52,7 +52,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "DHL":{
 	"longname":"Descent from the Highlands",
@@ -63,7 +63,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "DOA":{
 	"longname":"Discoveries of Akieva",
@@ -85,7 +85,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "EAU":{
 	"longname":"Eralou",
@@ -96,7 +96,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "GHQ":{
 	"longname":"Glacia: Hail to the Queen",
@@ -107,7 +107,7 @@
 	"Draft":1,
 	"basics":2,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "GNJ":{
 	"longname":"Goliaths of Nangjiao",
@@ -118,7 +118,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "HI12":{
 	"longname":"High Noon",
@@ -129,7 +129,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":"MPS_HI12",
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_HI12"],"chances":[0.99306,0.00694]}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_HI12"],"chances":[0.99306,0.00694]}]
 },
 "HVF":{
 	"longname":"Harvest Festival",
@@ -140,7 +140,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "IMP":{
 	"longname":"Imperial Legacies",
@@ -151,7 +151,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "K15":{
 	"longname":"K15 Core Set",
@@ -162,7 +162,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "KLC":{
 	"longname":"Kaleidoscope",
@@ -172,7 +172,7 @@
 	"releaseDate":"2017-10-01",
 	"Draft":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "KOD":{
 	"longname":"Kahembo: Olde Dawn",
@@ -183,7 +183,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "KZD":{
 	"longname":"Khaliz-Dorahn",
@@ -194,7 +194,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "LAW":{
 	"longname":"Lovi Awoken",
@@ -205,7 +205,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "LNG":{
 	"longname":"Langor: Scorched Sands",
@@ -216,7 +216,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "LVS":{
 	"longname":"Love Song",
@@ -227,7 +227,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "MAC":{
 	"longname":"Memorium Arcanum",
@@ -238,7 +238,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "MIS":{
 	"longname":"Mious",
@@ -249,7 +249,18 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":"MPS_MIS",
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_MIS"],"chances":[0.99306,0.00694]}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_MIS"],"chances":[0.99306,0.00694]}]
+},
+"MON":{
+	"longname":"Monsters of Chikyu",
+	"Design":"Cajun",
+	"Link":"https://drive.google.com/file/d/1VAqH-dBLsbejCVwTE0IFUUrDUzp_1yir/view?usp=sharing",
+	"releaseNo":"58",
+	"releaseDate":"2021-01-01",
+	"Draft":1,
+	"basics":1,
+	"masterpiece":false,
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=r","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "NVA":{
 	"longname":"Novea",
@@ -260,7 +271,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "OPH":{
 	"longname":"Ophorio",
@@ -271,7 +282,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":"MPS_OPO",
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_OPO"],"chances":[0.99306,0.00694]}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_OPO"],"chances":[0.99306,0.00694]}]
 },
 "ORP":{
 	"longname":"Oirohpo",
@@ -282,7 +293,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":"MPS_OPO",
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_OPO"],"chances":[0.99306,0.00694]}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true},{"filters":["r=c","e:MPS_OPO"],"chances":[0.99306,0.00694]}]
 },
 "PFP":{
 	"longname":"Plagues of Fretport",
@@ -292,7 +303,7 @@
 	"releaseDate":"2018-02-01",
 	"Draft":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "POA":{
 	"longname":"Pyramids of Atuum",
@@ -303,7 +314,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "PSA":{
 	"longname":"Path of Shadows",
@@ -314,7 +325,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "RWR":{
 	"longname":"Rail War",
@@ -325,7 +336,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "SOU":{
 	"longname":"Scriptures of Urshad",
@@ -336,7 +347,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "SOR":{
 	"longname":"Spark of Revolution",
@@ -347,7 +358,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "STN":{
 	"longname":"Survive the Night",
@@ -358,7 +369,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=r","r=m","r=l"],"chances":[0.875,0.0625,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "SUR":{
 	"longname":"Surging Tide",
@@ -369,7 +380,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "TGE":{
 	"longname":"Festenya: The Golden Era",
@@ -380,10 +391,10 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "TOJ":{
-	"longname":"Tales of Old Jiangshi",
+	"longname":"Tales of Old Jidai",
 	"Design":"Timespiraled",
 	"Link":"https://drive.google.com/open?id=1i84bWT4ChxNvqstAzuLlM63tEmp7552D",
 	"releaseNo":"30",
@@ -391,7 +402,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "TOW":{
 	"longname":"Tides of War",
@@ -402,7 +413,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "TWR":{
 	"longname":"A Tourney at Whiterun",
@@ -413,7 +424,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "UNR":{
 	"longname":"The Unraveling",
@@ -424,7 +435,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "VTM":{
 	"longname":"Villains: The Musical",
@@ -435,7 +446,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "WAW":{
 	"longname":"Skyrim: World at War",
@@ -446,7 +457,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=c","r=u"],"chances":[0.875,0.125]},{"filters":["r=c","r=u"],"chances":[0.875,0.125]},{"filters":["r=c","r=u"],"chances":[0.875,0.125]},{"filters":["r=c","r=u"],"chances":[0.875,0.125]},{"filters":["r=c","r=u"],"chances":[0.875,0.125]},{"filters":["r=r","r=r","r=c","r=u","r=l"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=c","r=u"],"chances":[0.865,0.135]},{"filters":["r=c","r=u"],"chances":[0.865,0.135]},{"filters":["r=c","r=u"],"chances":[0.865,0.135]},{"filters":["r=c","r=u"],"chances":[0.865,0.135]},{"filters":["r=c","r=u"],"chances":[0.865,0.135]},{"filters":["r=r","r=r","r=c","r=u","r=l"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "WAY":{
 	"longname":"Worlds Away",
@@ -457,7 +468,7 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "XPM":{
 	"longname":"Xoltan PreModern",
@@ -468,7 +479,7 @@
 	"Draft":2,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "ZER":{
 	"longname":"Zero",
@@ -479,7 +490,7 @@
 	"Draft":1,
 	"basics":1,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.875,0.125]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=l","r=c"],"chances":[1,1]},{"filters":["r=c","r=u","r=r","r=m","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "FLP":{
 	"longname":"Foreign Language Promos",
@@ -544,12 +555,34 @@
 	"Draft":1,
 	"basics":0,
 	"masterpiece":false,
-	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r"],"chances":[1]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","r=r","r=b","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","(r=r or r=m)","r=b","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
+},
+"MS3":{
+	"longname":"MSEM Masters 2021",
+	"Design":"Timespiraled",
+	"Link":"https://drive.google.com/open?id=1u5jVBk5yI8egQhazR7BVzXeLzT3QS_LL",
+	"releaseNo":"59",
+	"releaseDate":"2021-01-01",
+	"Draft":1,
+	"basics":0,
+	"masterpiece":false,
+	"packSlots":[{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=c"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=u"],"chances":[1]},{"filters":["r=r","r=m"],"chances":[0.865,0.135]},{"filters":["r=b"],"chances":[1]},{"filters":["r=c","r=u","(r=r or r=m)","r=b","(r=b or r=l)"],"chances":[0.6875,0.1875,0.0547,0.0078,0.0625],"chanceFunction":"else","replace":0,"replaceChance":0.3334,"foil":true}]
 },
 "MPS_MSE":{
 	"longname":"MSEM Champions",
 	"Design":"Cajun",
 	"releaseNo":"20",
+	"releaseDate":"2017-10-01",
+	"Draft":0,
+	"basics":0,
+	"masterpiece":false,
+	"reprint":true,
+	"priceSkip": true,
+	"packSlots":[]},
+"CHAMPIONS":{
+	"longname":"MSEM Champions",
+	"Design":"Cajun",
+	"releaseNo":"57",
 	"releaseDate":"2017-10-01",
 	"Draft":0,
 	"basics":0,
