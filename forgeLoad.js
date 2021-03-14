@@ -32,9 +32,9 @@ if(process.argv[2] != undefined) {
 		specified = true;
 	}
 	if(!specified) {
-		generateSkeletons = false;
-		generateImages = false;
-		generateEditions = false;
+		generateSkeletons = true;
+		generateImages = true;
+		generateEditions = true;
 	}
 	for(let arg in process.argv) { //only export specific sets
 		if(process.argv[arg].match(/^-?[A-Z0-9_]+$/)) {
