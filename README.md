@@ -13,7 +13,7 @@ Only runs DFCs.
 
 > -f
 
-Only generates card skeleton files (others only generated when paired with -1 or -e)
+Only generates card skeleton files (others only generated when paired with -i or -e)
 
 > -i
 
@@ -21,7 +21,7 @@ Only downloads card images (others only generated when paired with -f or -e)
 
 > -e
 
-Only generate edition files (others only generated when paired with -1 or -i)
+Only generate edition files (others only generated when paired with -f or -i)
 
 > SET or -SET
 
