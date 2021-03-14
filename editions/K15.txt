@@ -145,7 +145,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 137 U Impulsive Action
 138 C Insurgent Racketeer
 139 C Kragnoss' Assault
-140 U Kragnoss’ Battlecharger
+140 U Kragnoss' Battlecharger
 141 R Kragnoss, Rebellion Commander
 142 R Led by Fury
 143 R Magus of the Gauntlet

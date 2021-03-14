@@ -1,0 +1,4 @@
+Name:Academic's Claymore
+ManaCost:2
+Types:Artifact Equipment 
+Oracle:Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it and draw a card.\nEquip {1}\n

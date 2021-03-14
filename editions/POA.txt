@@ -23,7 +23,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 15 U Judge Unworthy
 16 U Leonin Sandfighter
 17 C Menhet Charm
-18 R Menhet’s Edict
+18 R Menhet's Edict
 19 U Mounted Charge
 20 C Observing Guardian
 21 C Peaceful Sunbath
@@ -114,15 +114,15 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 106 C Sandmouth Dragon
 107 C Sixpod Sprinter
 108 C Tamed Jaguar
-109 R Warrior’s Pride
+109 R Warrior's Pride
 110 U Whistled Dragons
 111 U Wurm Spawning
 112 M Zarchepet, Master of Sands
 113 R Daunting Gaze
-114 M Jachsechep, God’s Wife
+114 M Jachsechep, God's Wife
 115 R Kalro, Desert Outpost
 116 R Mesmerizing Shimmer
-117 R Mummy’s Grin
+117 R Mummy's Grin
 118 M Slaughter
 119 R Staff of Authority
 120 R Desert Temple

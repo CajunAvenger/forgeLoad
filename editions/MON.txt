@@ -34,7 +34,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 26 C Rallywing
 27 C Revitalize
 28 C Run Away
-29 C Sanaito’s Blessing
+29 C Sanaito's Blessing
 30 C Sandslinger
 31 C Slinking Sentinel
 32 R Slumbering Bear
@@ -45,7 +45,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 37 U Wings of Trust
 38 C Wish
 39 C Work Up
-40 R Zankon, Ema’s Claws
+40 R Zankon, Ema's Claws
 41 C Barnacle Crawler
 42 C Barrier
 43 U Call Back
@@ -61,7 +61,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 53 R I Choose You
 54 C Lakeside Trickster
 55 C Marine Monster
-56 R Onigori, Ema’s Shield
+56 R Onigori, Ema's Shield
 57 C Poised Koi
 58 C Quiet Retreat
 59 C Rest
@@ -78,7 +78,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 70 R Tidepool Turtle
 71 U Tidesweeper Gharial
 72 R Time Stands Still
-73 U Trainer’s Eyes
+73 U Trainer's Eyes
 74 U Truffle Snuffer
 75 U Undecided Mimic
 76 C Wandering Dragonfly
@@ -101,7 +101,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 93 C Maven of Fear
 94 R Moonlight
 95 R Night Shade
-96 R Nirami, Ema’s Keeper
+96 R Nirami, Ema's Keeper
 97 U Ominous Wind
 98 R Paleontologist
 99 U Patient Cocoon
@@ -130,7 +130,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 122 U Adrenaline
 123 C Driven Mad
 124 R Elemental of Surprise
-125 R Emonoru, Ema’s Wings
+125 R Emonoru, Ema's Wings
 126 C Enduring Charge
 127 U Extremespeed
 128 R Flame-Tailed Lizard
@@ -139,7 +139,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 131 C Fury Swipes
 132 C Galloping Blaze
 133 U Gruff Clutch
-134 R Karina’s Training
+134 R Karina's Training
 135 R Lava Plume
 136 U Lavatrailer
 137 R Loyal Firestarter
@@ -238,7 +238,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 230 U Expert Belt
 231 C Focus Sash
 232 R Lucky Egg
-233 R Maple’s Journal
+233 R Maple's Journal
 234 C Metal Coat
 235 C Old Map
 236 C Quick Claw

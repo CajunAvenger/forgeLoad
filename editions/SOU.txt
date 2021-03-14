@@ -18,7 +18,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 10 C Gilded Blade
 11 C Godchosen Valor
 12 U Halls of Worship
-13 C Hannaru’s Courage
+13 C Hannaru's Courage
 14 R Hannaru's Spear
 15 C Hard-Working Oxen
 16 C Harshapal Banner
@@ -28,7 +28,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 20 R Imperial Defenses
 21 C Inspired Charge
 22 U Legacy Warmask
-23 C Lisseria’s Outfitter
+23 C Lisseria's Outfitter
 24 C Long Journey
 25 C Marble Row Healer
 26 M Master of Marble Row
@@ -59,7 +59,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 51 C Delugic Surger
 52 U Edifice Overseer
 53 M Ekebram the Scholar
-54 C Ekebram’s Scribe
+54 C Ekebram's Scribe
 55 R Emissary of Dark Tides
 56 R Epic of Ekebram
 57 U Gilded Authority
@@ -111,7 +111,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 103 U Imperial Brutality
 104 R Imperial Confidant
 105 M Inishtu, Desert Healer
-106 C Into the Lion’s Den
+106 C Into the Lion's Den
 107 U Life's Worth
 108 U Merchant of Flesh
 109 U Nameless Throng
@@ -164,7 +164,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 156 C Shock
 157 C Slaughtered Steps Taskmaster
 158 U Strongarm
-159 R Sunnula’s Firebird
+159 R Sunnula's Firebird
 160 C Sure Strike
 161 C Torrent of Ankuliths
 162 R Unbound Annihilus
@@ -233,7 +233,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 225 U Sunblessed Orator
 226 C Ankulith Shard
 227 R Breaker of Cities
-228 C Dehmi’s Servitor
+228 C Dehmi's Servitor
 229 C Divine Chariot
 230 U Donkey Jawbone
 231 C Edge of the Empires

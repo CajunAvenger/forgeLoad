@@ -76,7 +76,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 68 R Verdant Sanctuary
 69 R What Lurks Beyond
 70 R Whisperwoods Reclaimer
-71 R Ayala’s Concord
+71 R Ayala's Concord
 72 R Champion of Blades
 73 R Eclipse Knight
 74 R Risen Raven
@@ -87,7 +87,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 79 R Whisperwood Exploration
 80 R Whisperwoods Phoenix
 81 R Wisdom of the Wilds
-82 R Ayala’s Effigy
+82 R Ayala's Effigy
 83 R Cinderblade
 84 R Aureate Panorama
 85 R Frozen Hinterlands

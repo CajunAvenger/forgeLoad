@@ -46,7 +46,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 38 C Disciple of Winds
 39 C Fleeting Thoughts
 40 C Gifts of the Oshiruko
-41 R Himitsu, Shigure’s Legacy
+41 R Himitsu, Shigure's Legacy
 42 U Hisana-no-Oni
 43 U Imperial Artisan
 44 R Imposition
@@ -188,7 +188,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 180 U Seishin's Edge
 181 R Sekitsui Yoroi
 182 U Shadow Lantern
-183 M Shionoshio, Ocean’s Vow
+183 M Shionoshio, Ocean's Vow
 184 C Shugenja's Journal
 185 R Soulstone
 186 R Spellblade

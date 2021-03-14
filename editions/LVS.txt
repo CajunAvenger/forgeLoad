@@ -201,7 +201,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 193 U Animus Vox
 194 U Atrocity of Flesh
 195 U Collapsing Star Viper
-196 U Dead Man’s Party
+196 U Dead Man's Party
 197 C Defected Explorer
 198 C Destructive Ambition
 199 C Enter Mephisto's Gate

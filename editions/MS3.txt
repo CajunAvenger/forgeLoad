@@ -57,7 +57,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 49 C Frosthulk
 50 U Ghostly Flicker
 51 R Kantra of the Third Eye
-52 M Lazaire’s Conjuring
+52 M Lazaire's Conjuring
 53 R Lord Shigure
 54 R Marin Polgek, Academy Heiress
 55 C Opt
@@ -91,9 +91,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 83 C Devour Memories
 84 C Duress
 85 R Fateful Journey
-86 U From Shengin’s Heart
-87 C Hero’s Downfall
-88 R Kevthra’s Command
+86 U From Shengin's Heart
+87 C Hero's Downfall
+88 R Kevthra's Command
 89 M Kevthra's Will
 90 U King of Bones
 91 U Maghbri Oracle
@@ -145,7 +145,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 137 U Sunless Seekers
 138 C Surestrike Elite
 139 R Synchronous Hellkite
-140 R Turin’s Study
+140 R Turin's Study
 141 C Unleash the Dragon
 142 C Warband Commander
 143 C Weapon Smash
@@ -157,7 +157,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 149 U Bestial Summons
 150 R Bloodleaf Tracker
 151 U Catch Unawares
-152 C Druid’s Deliverance
+152 C Druid's Deliverance
 153 U Endless Expedition
 154 C Entangled Roots
 155 C Felling Vines
@@ -174,7 +174,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 166 R Kantra of Old Majik
 167 U Lead the Stampede
 168 U Lives Redeemed
-169 U Mawdryk’s Haven
+169 U Mawdryk's Haven
 170 R Natural Recycling
 171 C Ophorion Refugee
 172 U Primal Ruffian
@@ -198,7 +198,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 190 R Hannah, Entelan Prodigy
 191 U Imaginative Dreamer
 192 M Infuse the Apparatus
-193 U Ishim’s Meddling
+193 U Ishim's Meddling
 194 R Lackeybot
 195 R Marshy Marauder
 196 U Nightrail Fence
@@ -291,6 +291,6 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 283s S Alien Visitor
 284s S Bitter Duckling
 285s S Saigura Mao, Wanderer
-286s S Xolde, High King’s Castle
+286s S Xolde, High King's Castle
 
 [tokens]

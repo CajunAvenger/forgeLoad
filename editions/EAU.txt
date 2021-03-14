@@ -12,15 +12,15 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 4 C Blessings of the Parish
 5 R Defector of the Clergy
 6 M Faradia, Honored Sovereign
-7 U Faradia’s Collector
-8 R Faradia’s Grace
+7 U Faradia's Collector
+8 R Faradia's Grace
 9 U Festival Songstress
 10 R Glamorous Festivities
 11 C Gleaming Gallant
 12 C Glorious Celebration
 13 M Helena, the Awakener
-14 C Helena’s Exaltation
-15 R Helena’s Rebuff
+14 C Helena's Exaltation
+15 R Helena's Rebuff
 16 R Heroic Crusader
 17 C Inspiring Band
 18 U Kantra of Healing
@@ -30,14 +30,14 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 22 R Ontarachie Vagabond
 23 C Overgrowth Guardian
 24 R Parish Paragon
-25 U Parish’s Command
+25 U Parish's Command
 26 R Pretentious Performer
 27 C Proselytize
 28 R Rejoicing Aristocrats
 29 C Smite the Monstrous
 30 U Solemn Offering
 31 U Splendid Leap
-32 C Sporecrafter’s Gift
+32 C Sporecrafter's Gift
 33 C Sporeflow Mantle
 34 U Sporeflow Propagator
 35 C Sporeflow Repulsion
@@ -64,9 +64,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 56 C Elaborate Transportation
 57 R Enthralling Actor
 58 C Glamorous Aerialist
-59 R Hunter’s Mark
+59 R Hunter's Mark
 60 R Kantra of the Third Eye
-61 M Lazaire’s Conjuring
+61 M Lazaire's Conjuring
 62 C Lost in Admiration
 63 U Lotus Debutante
 64 C Luminescent Croaker
@@ -85,31 +85,31 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 77 U Tempted by Lotuses
 78 R Wade Through
 79 R Witch of Shifting Waters
-80 R Witch’s Invocation
+80 R Witch's Invocation
 81 C Zoulev Envoy
 82 U Zoulev Offering
 83 U Zoulev Rebuff
-84 C Ancestor’s Calling
+84 C Ancestor's Calling
 85 R Banish
 86 U Bayou Courier
 87 U Bitterheart Bokor
 88 C Bog Rebirth
 89 M Boghex Witch
-90 C Bokor’s Recruitment
+90 C Bokor's Recruitment
 91 R Curse of Bleeding
 92 C Curse of Haunting
 93 U Curse of Waning Wealth
-94 R Explorer’s Fate
+94 R Explorer's Fate
 95 U Greater Swooprat
 96 R Grim Festivities
 97 R Grisly Hunger
 98 U Kantra of Avarice
 99 M Kantra of Plagues
-100 R Lazaire’s Altar
+100 R Lazaire's Altar
 101 C Murmurs of the Bayou
 102 R Occult Tutor
 103 R Ontarachie Hunter
-104 U Oracle’s Ploy
+104 U Oracle's Ploy
 105 C Overwhelming Guilt
 106 C Parish Custodian
 107 U Reclaim the Devout
@@ -149,15 +149,15 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 141 C Elegant Strike
 142 M Encore of the Phoenix
 143 R Exciting Band
-144 U Faradia’s Outrage
+144 U Faradia's Outrage
 145 C Fervent Strike
 146 C Festival Rioters
-147 U Fool’s Errand
+147 U Fool's Errand
 148 C Gift of the Phoenix
 149 M Herald of Festivities
 150 C Intoxicating Melody
 151 C Lonely Devil
-152 U Lord’s Voyage
+152 U Lord's Voyage
 153 C Lotus Studies
 154 R Minister of Zealots
 155 R Ontarachie Apex
@@ -175,7 +175,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 167 R Vivid March
 168 U Zealous Scaleblight
 169 U Ambushing Alligator
-170 C Artisan’s Sorrow
+170 C Artisan's Sorrow
 171 M Avatar of Plume de Val
 172 C Bite Down
 173 C Bloomcrawler
@@ -193,9 +193,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 185 M Kantra of Bounty
 186 C Kantra of Fortitude
 187 R Kantra of Old Majik
-188 C Kantra’s Envoy
+188 C Kantra's Envoy
 189 C Lotus Feaster
-190 C Marsh’s Veil
+190 C Marsh's Veil
 191 R Mushroom Merchant
 192 C Ontarachie Bushwhack
 193 R Ontarachie Dryad
@@ -221,7 +221,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 213 U Determined Evangelist
 214 U Dramatic Artist
 215 M Erollin, Eccentric Collector
-216 U Faradia’s Favored
+216 U Faradia's Favored
 217 U Gift of the Bayou
 218 R Grindlesnap
 219 U Irrigation Trawler
@@ -231,7 +231,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 223 U Smooth Musician
 224 U Woopip Bruiser
 225 U Arcane Saxophone
-226 U Artisan’s Fountain
+226 U Artisan's Fountain
 227 R Automated Maestromancer
 228 C Bogchomper Juggernaut
 229 C Bogsworn Club

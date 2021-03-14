@@ -182,7 +182,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 174 U Wise Farseer Chini
 175 R Agrestal Decay
 176 M All-Enduring Mafua
-177 R Am’atambi, Fable Weaver
+177 R Am'atambi, Fable Weaver
 178 R Animorph
 179 R Anuran Encounters
 180 R Art of Evasion

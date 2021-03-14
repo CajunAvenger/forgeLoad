@@ -71,7 +71,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 63 M Crimson Sunrise
 64 C Elvish Songseeker
 65 U Grieving Revenant
-66 R Heart’s Desire
+66 R Heart's Desire
 67 U Lavamancer Adept
 68 R Leija, the Bloodied Queen
 69 C Magmatic Cache

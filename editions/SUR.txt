@@ -173,17 +173,17 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 166 R Xing, the Lucky Charm
 167 C Barreling Chariot
 168 U Granite Sibyl
-169 M Heping’s Armistice Chains
+169 M Heping's Armistice Chains
 170 U Illustrious Lantern
 171 U Inciting Blade
-172 R Ing’Wei’s Crystal Top
+172 R Ing'Wei's Crystal Top
 173 U Plagued Skull
 174 C Sinister Saber
 175 R Temporary Armory
 176 C Vial of Ice
 177 R Aquatic Refuge
 178 M Citadel of Denial
-179 C No-Man’s Land
+179 C No-Man's Land
 180 R Prairie Monastery
 181 R Scorched Copse
 182 R Sunless Ridge

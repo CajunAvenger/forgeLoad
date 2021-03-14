@@ -12,13 +12,13 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 4 U Cast Out
 5 U Chitinborn Sentry
 6 R Conchhorn Shinygrabber
-7 C Coralcrown’s Banishment
+7 C Coralcrown's Banishment
 8 R Coralight Champion
 9 C Coralight Choir
 10 C Coralight Mystic
 11 C Coralight Sentinel
-12 C Dawson’s Bouncer
-13 C Driftwood Throne’s Rule
+12 C Dawson's Bouncer
+13 C Driftwood Throne's Rule
 14 M Duke Atrios XXIV
 15 C Freewheeling Orcas
 16 C Gilded Merrow
@@ -31,7 +31,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 23 U Lilyreed Triton
 24 C Majestic Nauticorn
 25 R Merrow Legendmaker
-26 U Militant’s Standard
+26 U Militant's Standard
 27 C Mysterious Lights
 28 R Noble Birthright
 29 C Pacifism
@@ -60,7 +60,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 52 R Cuxuri Rift
 53 C Deep-Sea Terror
 54 C Drag Beneath
-55 C Edina’s Soulsinger
+55 C Edina's Soulsinger
 56 R Encapsulate
 57 R Entrancing Light
 58 R Eye of the Beholder
@@ -98,9 +98,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 90 M Danithra Champion
 91 R Danithra Inquisitor
 92 C Danithra Oracle
-93 R Dawson’s Collector
-94 C Dawson’s Enforcer
-95 U Dawson’s Marauder
+93 R Dawson's Collector
+94 C Dawson's Enforcer
+95 U Dawson's Marauder
 96 U Death Sentence
 97 C Depthlight Brute
 98 C Depthlight Salvager
@@ -111,12 +111,12 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 103 C Gobble Up
 104 U Goldtooth Slasher
 105 C Herald from Below
-106 C Horrors’ Reach
+106 C Horrors' Reach
 107 C Ink Seer
 108 M Into the Abyss
 109 R Nightmares Unseen
 110 U Oceanographer
-111 U Oryxyth’s Brood
+111 U Oryxyth's Brood
 112 U Pay Up
 113 C Ruin Dive
 114 U Salvage Titan
@@ -144,7 +144,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 136 U Depthlight Frontliner
 137 M Dredgeline Colossus
 138 C Dukedom Outcast
-139 U Elmare’s Grandeur
+139 U Elmare's Grandeur
 140 R Fabulous Find
 141 U Final Struggle
 142 C Finish Off
@@ -177,7 +177,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 169 R Coralblade Cohort
 170 C Coralight Communer
 171 U Coralight Lifebloom
-172 C Cuxuri’s Corruption
+172 C Cuxuri's Corruption
 173 C Danithra Caller
 174 R Danithra Muckbruiser
 175 U Depthcalling
@@ -207,7 +207,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 199 C Smell Blood
 200 U Sturdyshell Hammerclaw
 201 U Triplicate Monstrosity
-202 M Turi’s Masterstroke
+202 M Turi's Masterstroke
 203 C Way of the Danithra
 204 U Wilt
 205 C Youthful Tortoise
@@ -215,20 +215,20 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 207 R Collect Rotting Remains
 208 U Coralight Paladin
 209 U Cuxuri Beckoner
-210 U Dawson’s Warden
+210 U Dawson's Warden
 211 U Depthlight Captain
 212 R Doom and Gloom
 213 R Duchess Odelia VII
 214 M Edina, Coralight Soothsayer
 215 U Fortune and Glory
-216 R Grim, Dawson’s Vassal
+216 R Grim, Dawson's Vassal
 217 M Hila Okunos
 218 R Krill-Clan Guardian
 219 U Lightning-Fast Lionfish
 220 U Lionfrill Hunter
 221 M Lord Rickard Dawson
 222 R Megalodon Rush
-223 R Odelia’s Attendant
+223 R Odelia's Attendant
 224 M Oryxyth, Doom of Elmare
 225 R Rappel Liner
 226 R Regal Coralhorn
@@ -244,16 +244,16 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 236 R Brilliant Runepearl
 237 R Bygone Wreck
 238 R Cannoncoil Hermit
-239 R Dawson’s Jetslicer
-240 C Dawson’s Loot
+239 R Dawson's Jetslicer
+240 C Dawson's Loot
 241 C Depthlight Beacon
-242 U Grim’s Warchest
+242 U Grim's Warchest
 243 U Harried Submersible
-244 R Lost Empire’s Legacy
+244 R Lost Empire's Legacy
 245 M Mettalia, Light from Above
-246 U Mettalia’s Forward
+246 U Mettalia's Forward
 247 C Minefield Bomber
-248 R Myrmidon’s Warhead
+248 R Myrmidon's Warhead
 249 C Ominous Helmet
 250 C Patrol Ship
 251 R Reefcrown Egg

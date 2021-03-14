@@ -20,8 +20,8 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 12 R Gabryel's Devout
 13 C Glimpse of Innocence
 14 C Grace of the Trinity
-15 R Honor’s Refuge
-16 R Kasienka, Raven’s Regarded
+15 R Honor's Refuge
+16 R Kasienka, Raven's Regarded
 17 C Kasienka's Veteran
 18 C Loss of Focus
 19 U Martyr's Sacrifice
@@ -152,7 +152,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 144 R All or Nothing
 145 R Lion's Vanguard
 146 R Flush With Arcor
-147 R Nataila, Raven’s Repented
+147 R Nataila, Raven's Repented
 148 R Wildborn Merchant
 149 R Days of Decay
 150 R Valeriya, Watchkeeper Veteran
@@ -196,7 +196,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 188 U Elixir of Immortality
 189 C Plague Mask
 190 C Rallying Horn
-191 R Raven’s Standard
+191 R Raven's Standard
 192 U Vigilante's Cowl
 193 U Weight of Sin
 194 R Arctic Mine

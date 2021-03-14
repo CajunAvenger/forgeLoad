@@ -138,7 +138,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 130 R Bomb Juggler
 131 M Cataclysmic Skytyrant
 132 R Commander of the War Song
-133 R Corrignos’ Rage
+133 R Corrignos' Rage
 134 C Crazed Bruiser
 135 C Darokki Renegade
 136 U Deranged Arsonist
@@ -155,7 +155,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 147 R Jeska's Command
 148 R Loot Hoarder Dragon
 149 U Mark of Mutiny
-150 C Merthilios’ Escort
+150 C Merthilios' Escort
 151 C Molten Ritual
 152 C Moment of Madness
 153 C Mountain Victor
@@ -189,7 +189,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 181 U Gorillas in the Mist
 182 C Imposing Bulkvine
 183 U Infiltrate Althestra
-184 U Knight’s Daring
+184 U Knight's Daring
 185 M Miraculous Genesis
 186 C Mold Shambler
 187 C Mossvine Lurker

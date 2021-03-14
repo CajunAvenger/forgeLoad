@@ -122,7 +122,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 114 C Imperial Legion
 115 C Master Chef
 116 C Nature's Claim
-117 C Nature’s Defiance
+117 C Nature's Defiance
 118 U Pinnacle of Vigor
 119 U Relentless Pathcutter
 120 R Restoration
@@ -232,6 +232,6 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 27s S Raloran Tidecaller
 28s S Coveted Heirloom
 29s S Nightwatch Rallier
-30s S Xenocrata’s Fleet
+30s S Xenocrata's Fleet
 
 [tokens]

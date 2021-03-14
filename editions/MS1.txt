@@ -154,7 +154,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 146 U Apprentice Summoner
 147 U Bear in Mind
 148 R Crossroad Bard
-149 R Dragon’s Eye Descendant
+149 R Dragon's Eye Descendant
 150 C Elvish Moneychanger
 151 U Expedition Leader
 152 C Fertile Soil

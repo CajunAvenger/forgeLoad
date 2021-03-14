@@ -6,7 +6,7 @@ Type=Other
 Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 
 [cards]
-1 C Ajani’s Advocate
+1 C Ajani's Advocate
 2 C Akrasan Sentry
 3 U Amesha of the Honorable
 4 M Archangel of Bliss
@@ -15,10 +15,10 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 7 R Blessed Vanquisher
 8 U Citadel Battlemage
 9 U Cloudheath Sentinel
-10 C Cloud’s Roar Avenger
+10 C Cloud's Roar Avenger
 11 C Dawnray Castellan
-12 R Derevi’s Adjutant
-13 C Dominator’s Diadem
+12 R Derevi's Adjutant
+13 C Dominator's Diadem
 14 U Eos Beseecher
 15 R Etherium Abrogator
 16 U Etherium Staff
@@ -27,7 +27,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 19 U Herald of the White Orchid
 20 C Meticulous Mechanist
 21 U Ostracizer Orb
-22 C Paladin’s Attendant
+22 C Paladin's Attendant
 23 C Pledge of Peace
 24 C Radiant Resolve
 25 C Recraft in Steel
@@ -42,7 +42,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 34 C Clairvoyant Insight
 35 U Cognition Crucible
 36 C Disperse
-37 U Dissident’s Vortex
+37 U Dissident's Vortex
 38 U Disturb the Riddle Gate
 39 U Esper Shardseeker
 40 C Essence Erasure
@@ -56,7 +56,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 48 C Jhessian Cavalier
 49 C Kederekt Seawitch
 50 U Maelstromancy
-51 C Mage’s Warding
+51 C Mage's Warding
 52 C Retinue Golem
 53 U Sanctum Battlemage
 54 C Serul Cove Escort
@@ -65,7 +65,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 57 C Steelfin Manta
 58 C Subduing Serum
 59 R Supreme Mechanothurge
-60 C Terraformer’s Globe
+60 C Terraformer's Globe
 61 U Unbeholden Navigator
 62 U Vectis Entrancer
 63 U Vibrant Expulsion
@@ -83,7 +83,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 75 C Dregscape Wretch
 76 U Exenterate
 77 U Grixis Shardseeker
-78 C Hegemon’s Cutthroat
+78 C Hegemon's Cutthroat
 79 C Hexcaster of Unx
 80 C Hostile Barbfly
 81 R Mortal Finish
@@ -96,7 +96,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 88 U Ravenous Tarwurm
 89 C Sangrite Ooze
 90 U Scrap Spiral
-91 C Sculler’s Bauble
+91 C Sculler's Bauble
 92 U Sedraxis Trepanator
 93 U Shining Revival
 94 C Thunderscorn
@@ -110,7 +110,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 102 C Fodder Goblins
 103 C Frenzied Nacatl
 104 R Hellkite Omnivore
-105 U Hellkite’s Decree
+105 U Hellkite's Decree
 106 R Hellspark Prankster
 107 C Infernal Flames
 108 U Jund Shardseeker
@@ -121,7 +121,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 113 U Mist-Valley Minotaurs
 114 U Nacatl Skirmisher
 115 C Ominous Lightning
-116 C Pain’s Embrace
+116 C Pain's Embrace
 117 C Ragemist
 118 C Reinbreaker Behemoth
 119 C Sadistic Sparkmage
@@ -140,7 +140,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 132 C Exuberant Hunter
 133 C Flarespore Mycoid
 134 C Flesheater Vine
-135 C Fletcher’s Precision
+135 C Fletcher's Precision
 136 U Fungal Flourishing
 137 C Gargantuan Crusher
 138 R Heart of Spores
@@ -149,7 +149,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 141 C Knight of the Olive Orchard
 142 U Knotvine Preserver
 143 C Leotau Rider
-144 C Lichen’s Grasp
+144 C Lichen's Grasp
 145 R Magnoceros
 146 U Mist-Valley Ancient
 147 U Naya Shardseeker
@@ -171,7 +171,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 163 U Ambush Gharial
 164 R Angel of Succor
 165 R Antali Archdruid
-166 R Arcanist’s Reaver
+166 R Arcanist's Reaver
 167 U Aven Strategist
 168 R Bant Command
 169 U Behemoth Channeler
@@ -183,7 +183,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 175 R Duneglass Ascetic
 176 R Earthbreaker Behemoth
 177 M Edarna the Everforge
-178 U Edarna’s Augurling
+178 U Edarna's Augurling
 179 R Empyrial Reverence
 180 R Entrail Elemental
 181 R Esper Command
@@ -196,9 +196,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 188 C Incantation Demon
 189 M Influence of Progenitus
 190 M Jenara, Virtue of Bant
-191 U Jenara’s Favor
+191 U Jenara's Favor
 192 R Jund Command
-193 R Kaalia’s Abomination
+193 R Kaalia's Abomination
 194 M Kederekt Deepdweller
 195 R Kess the Necromaster
 196 R Maelstrom Elemental
@@ -214,9 +214,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 206 U Scorchpass Sovereign
 207 U Sedraxis Scourge
 208 M Sharuum, Archmagocrat
-209 U Sharuum’s Council
+209 U Sharuum's Council
 210 C Sighted-Caste Knight
-211 C Sphinx’s Scrutiny
+211 C Sphinx's Scrutiny
 212 C Spinebreak
 213 R Steel Wind Goliath
 214 R Summit Guardian
@@ -224,9 +224,9 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 216 R Sun-Sigil Ordainer
 217 U Telemin Architect
 218 U Tendrilsnare
-219 M Tharrsus, Tyrant’s Scion
+219 M Tharrsus, Tyrant's Scion
 220 U Thrinax Sporemother
-221 R Timus, the Cloud’s Roar
+221 R Timus, the Cloud's Roar
 222 U Tremor Seer
 223 R Tumultipede
 224 C Varakna Wurm

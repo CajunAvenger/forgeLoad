@@ -172,7 +172,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 164 C Searing Burst
 165 C Nightstep
 166 C Ancestral Monument
-167 U Assailant’s Blade
+167 U Assailant's Blade
 168 U Bloodied Blade
 169 R Construct Caverns
 170 C Decrepit Monument

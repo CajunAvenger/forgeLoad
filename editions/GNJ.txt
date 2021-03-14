@@ -256,7 +256,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 253 S Mountain
 254 S Forest
 255 U Zhehan, the Mediator
-256 U Da’Lang, Forest Guardian
+256 U Da'Lang, Forest Guardian
 257 U Fei'Xing the Marvelous
 258 U Foolhardy Huo
 259 U Pan, Honored Sergeant

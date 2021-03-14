@@ -33,7 +33,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 25 U Prosanian Warden
 26 R Punishing Catastrophe
 27 C Purifying Light
-28 C Rallios’ Demise
+28 C Rallios' Demise
 29 U Ready for the Odyssey
 30 M Sanctuary
 31 R Soulstone Commander
@@ -118,7 +118,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 110 U Temporal Resuscitation
 111 M Tharyen, Lord of Subturgia
 112 R Tharyen's Machinations
-113 R Tharyen’s Sadism
+113 R Tharyen's Sadism
 114 U Tharyen's Vanguard
 115 U Undying Terror
 116 C Undying Welcome

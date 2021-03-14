@@ -77,7 +77,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 69 C Winter Warner
 70 U Young Abjumancer
 71 U Bonechilling Bite
-72 C By Raven’s Call
+72 C By Raven's Call
 73 U Chill Through
 74 C Dead Weight
 75 U Endless Journey
@@ -92,7 +92,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 84 R Isolation
 85 C Jorundar Infiltrator
 86 U Laugar Aristocrat
-87 C Laugar’s Kiss
+87 C Laugar's Kiss
 88 C Mead-made Bruiser
 89 M Necropresence
 90 C Necrotic Diviner
@@ -239,7 +239,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 231 U Rennhaldt Mystics
 232 U Seeker's Challenge
 233 U Shore's Claim Bandit
-234 U Sky’s Reach Scout
+234 U Sky's Reach Scout
 235 U Snowbreach War-Caller
 236 U Tested Seeker
 237 S Plains

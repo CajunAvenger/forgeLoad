@@ -41,10 +41,10 @@ if(process.argv[2] != undefined) {
 		i = process.argv[restartIndex+1]
 }
 
-function writeFile(path, contents, cb) {
+function writeFile(path, contents, cb) { //extra step to make sure directory exists and fix our apostrophes
 	mkdirp(getDirName(path), function (err) {
 		if (err) return cb(err);
-		fs.writeFile(path, contents, cb);
+		fs.writeFile(path, contents.replace(/’/g, "'"), cb);
 	});
 }
 function pullTokenSet(card, setbase) { //determines what set a token belongs to

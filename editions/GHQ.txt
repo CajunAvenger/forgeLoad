@@ -233,7 +233,7 @@ Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
 225 M Xiong Mao, the Intrepid
 226 C Bearhide Cloak
 227 R Blood Hunter's Spear
-228 R Bloodguard’s Hand
+228 R Bloodguard's Hand
 229 R Chains of Subdual
 230 C Dragonfire Longboat
 231 R Ghastly Ferry
