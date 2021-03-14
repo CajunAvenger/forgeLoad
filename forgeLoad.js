@@ -206,7 +206,7 @@ function genEditionFiles() {
 	let holdS = {};
 	for(let card in cards) {
 		let go = false
-		if(portedSets.length && portedSets.include(cards[card].setID))
+		if(portedSets.length && portedSets.includes(cards[card].setID))
 			go = true;
 		if(!portedSets.length && cards[card].setID != "tokens" && !setData[cards[card].setID].priceSkip)
 			go = true;
