@@ -8,9 +8,9 @@ var cardList = Object.keys(cards);
 var i = 0;
 var fails = 0;
 var dfcCorrect = false;
-var generateSkeletons = false;
-var generateImages = false;
-var generateEditions = false;
+var generateSkeletons = true;
+var generateImages = true;
+var generateEditions = true;
 var specified = false;
 var portedSets = [];
 
@@ -19,23 +19,18 @@ if(process.argv[2] != undefined) {
 		dfcCorrect = true;
 	//export all if no argvs
 	//export argvs only if argvs
-	if(process.argv.includes('-f')) { //only export text files
+	if(process.argv.includes('-f') || process.argv.includes('-e') || process.argv.includes('-i')) {
+		generateSkeletons = false;
+		generateImages = false;
+		generateEditions = false;
+	}
+	if(process.argv.includes('-f')) //only export text files
 		generateSkeletons = true;
-		specified = true;
-	}
-	else if(process.argv.includes('-i')) { //only export card images
+	if(process.argv.includes('-i')) //only export card images
 		generateImages = true;
-		specified = true;
-	}
-	else if (process.argv.includes('-e')) { //only export edition files
+	if(process.argv.includes('-e')) //only export edition files
 		generateEditions = true;
-		specified = true;
-	}
-	if(!specified) {
-		generateSkeletons = true;
-		generateImages = true;
-		generateEditions = true;
-	}
+
 	for(let arg in process.argv) { //only export specific sets
 		if(process.argv[arg].match(/^-?[A-Z0-9_]+$/)) {
 			portedSets.push(process.argv[arg].replace(/^-/, ""));
