@@ -1,0 +1,138 @@
+[metadata]
+Code=POA
+Date=2017-06-08
+Name=MSEM: Pyramids of Atuum
+Type=Other
+Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
+
+[cards]
+1 U Alpha Lion
+2 R Angel of Sands
+3 R Avatar of Utsenchep
+4 C Awestruck
+5 C Camelriding Archer
+6 C Caravan Sumpter
+7 U Dawn Silhouette
+8 U Dignified Serpent
+9 U Diligent Believer
+10 R Divine Protection
+11 R Eternal Banishment
+12 C Expulse to the Desert
+13 C Giant Dromad
+14 M High-Priestess Nebti
+15 U Judge Unworthy
+16 U Leonin Sandfighter
+17 C Menhet Charm
+18 R Menhet’s Edict
+19 U Mounted Charge
+20 C Observing Guardian
+21 C Peaceful Sunbath
+22 M Righteous Priestess
+23 C Savannah Scout
+24 C Sprawled Arming
+25 U Stream of Light
+26 C Suntail Hawk
+27 C Survive
+28 C Utsenchep Warrior
+29 R Ancestral Memories
+30 U Atuum Serpent
+31 R Avatar of Senmut
+32 U Bath in the Solitude
+33 C Blurring Mists
+34 R Blurry Counterpart
+35 C Crippling Spirit
+36 U Cunning Chanter
+37 U Diligent Fishermen
+38 C Divination
+39 R Divine Denial
+40 C Dripping Turtle
+41 U Excellent Architecture
+42 R Gift of the Sphinx
+43 C Life-Giving Waters
+44 C Pharaoh Guardian
+45 C Preserving Cloak
+46 C Priestess of Menhet
+47 U Sandborn Mage
+48 C Scaled Lurker
+49 U Sharp Eyed Sentinel
+50 U Spell Dilution
+51 R Sphinx of Riddles
+52 C Streaming Waters
+53 M Through the Dust
+54 C Wachet Charm
+55 C Wall of Fog
+56 C Winged Envoy
+57 M Achet-Aton, Living God
+58 R Adept Necromancer
+59 C Amosis Charm
+60 R Antithesis
+61 R Avatar of Amosis
+62 C Depraved Disciple
+63 U Descendant of Caaseb
+64 R Desert Slaughterer
+65 U Despise
+66 U Doomed Journey
+67 C Double Arming
+68 C Essence Dehydration
+69 U Gates to the Afterlife
+70 C Giant Scarab
+71 C Gruesome Transport
+72 C Haggard Jackal
+73 C Kill the Competition
+74 C Lasis Persecutor
+75 R Menes, the Great Pyramid
+76 U Mummification
+77 C Njel Crocodile
+78 U Poisoned Well
+79 C Ruthless Monstrosity
+80 R Sinister Pact
+81 C Sudden Drought
+82 C Tendrils of Corruption
+83 U Terrifying Ankh
+84 U Tireless Vulture
+85 R Avatar of Basat
+86 C Basat Charm
+87 C Basat Priest
+88 C Brute Force
+89 U Caravan Engulfer
+90 U Dance for the Heavens
+91 C Desert Warriors
+92 M Desert Wurms
+93 C Dune Peregrination
+94 C Dune Scorpion
+95 R Ferocious Desert-Hunter
+96 U Fire from Above
+97 C Haughty Priest
+98 C Haze Raptor
+99 U Heat of Battle
+100 C Imaginary Flames
+101 U Inspiring Melodies
+102 U Mounted Marksman
+103 R Pyramid Lord
+104 R Rockpounding Saurian
+105 C Sanding
+106 C Sandmouth Dragon
+107 C Sixpod Sprinter
+108 C Tamed Jaguar
+109 R Warrior’s Pride
+110 U Whistled Dragons
+111 U Wurm Spawning
+112 M Zarchepet, Master of Sands
+113 R Daunting Gaze
+114 M Jachsechep, God’s Wife
+115 R Kalro, Desert Outpost
+116 R Mesmerizing Shimmer
+117 R Mummy’s Grin
+118 M Slaughter
+119 R Staff of Authority
+120 R Desert Temple
+121 S Plains
+122 S Plains
+123 S Island
+124 S Island
+125 S Swamp
+126 S Swamp
+127 S Mountain
+128 S Mountain
+
+[tokens]

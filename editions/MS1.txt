@@ -1,0 +1,290 @@
+[metadata]
+Code=MS1
+Date=2019-01-01
+Name=MSEM: MSEM Masters 2019
+Type=Other
+Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand
+
+[cards]
+1 C Silent Wanderer
+2 R Amass Wealth
+3 U Armorer of the Soul
+4 R Bearidge Marshall
+5 U Cadre Hawk
+6 C Cauldish Banneret
+7 C Escorted Rider
+8 C Fading Prison
+9 C Faithful Acolyte
+10 U Final Rest
+11 C Flickercloak
+12 R Hanabira, Kogane's Legacy
+13 C Haunting Bard
+14 R Heavenly Avenger
+15 U Helvalla's Adorned
+16 C Incapacitated
+17 U Inquisition Captain
+18 U Lady's Master-of-Arms
+19 U Lha Elite
+20 C Lightsteel Enforcer
+21 R Lord Jared, the Griffin Knight
+22 R Magus of the Well
+23 C Nomadic Journey
+24 C Patient Ascetic
+25 C Sandbluff Enforcers
+26 C Seek Glory
+27 C Serene Form
+28 C Splitting Phantasm
+29 R Starfall Singer
+30 U Swayed Servant
+31 U Tailwind Griffin
+32 C Tezoculpa Patrol
+33 U Torrent of Wind
+34 C Valhime Raider
+35 C Venerated Knight
+36 C Veteran Lifeforger
+37 U White Petal Ronin
+38 R Aether Leak
+39 C Ambitious Dreams
+40 C Artful Diversion
+41 C Enlightened Lizard
+42 U Exile's Vanguard
+43 R Fated Challenge
+44 C Hesitate
+45 C Illusionary Steed
+46 C Inner Thoughts
+47 U Master of Tranquility
+48 U Mobilize the Heavenly
+49 U Moonwing Watcher
+50 C Oshiruko Silencer
+51 C Paralyzing Ennui
+52 C Reconsider
+53 R Reflected Moment
+54 U Scene of Nativity
+55 C Seek Prophecy
+56 U Seeker of Mysteries
+57 C Seishin Tidekeeper
+58 C Shape the Tides
+59 C Soaring Dreams
+60 U Spell Dispersal
+61 U Sphinx Mentor
+62 C Sprout Thought
+63 C Stormtide Tempest
+64 C Stormwing Raven
+65 U Sylph Spawning
+66 R Territorial Drake
+67 R Thespian's Finale
+68 R Thought Siphon
+69 C Thunder Crow
+70 R Travian Archsage
+71 U Undead Archivist
+72 C Voice in the Crowd
+73 U Window Shopping
+74 R Antithesis
+75 C Arisen Haploc
+76 C Bane of Identity
+77 U Blightbringer
+78 C Bloodleaf Butcher
+79 C Castaway Skulkers
+80 R Departed Evangel
+81 C Dredging Aberration
+82 C Driver of Hordes
+83 C Dunebelt Thief
+84 C Feed the Horde
+85 C Graygulch Turncoat
+86 U Infested Goblin
+87 R Kai'Dwo, Eternal Ravager
+88 R Karloni Extortionist
+89 U Kiyomi's Disciple
+90 U Laugar Aristocrat
+91 U Light Within Shadow
+92 U Maghbri Oracle
+93 U Minstrel of the Bloodied
+94 C Mother's Disciples
+95 U Nest Watchers
+96 C Past Unresolved
+97 C Rapacious Demon
+98 C Shadow Infestation
+99 C Shadowfeeder
+100 R Spirits of the Shrine
+101 C Sudden Drought
+102 U Temporal Resuscitation
+103 C Twilight Raid
+104 U Uncovered Mine
+105 R Vythraktos, Master Necromancer
+106 R Whistling Blades
+107 U Wicked Weaving
+108 C Wightlight
+109 C Young Tempter
+110 C Ardent Charge
+111 U Autumn Fae
+112 C Caravan Merchant
+113 R Cataclysmic Skytyrant
+114 C Dancing Flames
+115 C Descent of the Stars
+116 U Dragonsoul Disciple
+117 C Dynamic Wyvern
+118 C Empty the Barracks
+119 C Endless Walc
+120 C Enemies of My Enemy
+121 R Entel, Osrius Vagrant
+122 U Feeding Time
+123 U Fire and Ashes
+124 C Firefish Assault
+125 C Frilled Drakeling
+126 C From Ancient Tomes
+127 U Gamble for Knowledge
+128 C Goblin Stormcaller
+129 C Goblin Twinblades
+130 C Heated Dispute
+131 U Illicit Operations
+132 R Legend of the Brave
+133 C Lerithan Rebel
+134 R Lorani Avenger
+135 R Merkurio's Familiar
+136 U Mirage Adept
+137 C Mountain Victor
+138 U Qilan Stormers
+139 R Rallied Rabble
+140 U Roggar's Gambit
+141 R Sara, Entelan Elementalist
+142 U Takara Flameblade
+143 U Tirenan Pyromancer
+144 C Trusted Comrade
+145 C Twinned Slasher
+146 U Apprentice Summoner
+147 U Bear in Mind
+148 R Crossroad Bard
+149 R Dragon’s Eye Descendant
+150 C Elvish Moneychanger
+151 U Expedition Leader
+152 C Fertile Soil
+153 C Forestheart Elemental
+154 C Foretold Strength
+155 C Fuhai-no-Oni
+156 C Hardy Elk
+157 R Kou, Primal Shepherd
+158 U Lone Heroics
+159 U Mana Ascetic
+160 C Masamori Hunter
+161 C Masamori Initiate
+162 U Mentor of Commerce
+163 C Minor Melee
+164 C One with the World
+165 C Ouroboros Twist
+166 U Prismatic Leyline
+167 C Promised Seeker
+168 C Qilan Seer
+169 C Qilan Wanderer
+170 C Revert to Dust
+171 U Sewer Pack
+172 C Silverwork Champion
+173 R Sire of the Wild
+174 U Spectral Hunter
+175 U Stoic Observation
+176 R Tarraka-no-Oni
+177 C Tranquil Endeavors
+178 U Twisted Stampede
+179 R Verdant Trauma
+180 C Weald Sentry
+181 R Rock
+182 U Almgrove Sentinel
+183 R Chief Striking Dawn
+184 R Declare, the Mother Bear
+185 U Endrison Nourisher
+186 R Holy War
+187 R Imposing Griffin
+188 U Keeper of the Whispers
+189 R Light a Fire
+190 R Lunar Arbiter
+191 R Osrius Royalty
+192 U Osrius Warden
+193 U Past, Present, Future
+194 U Powdercoat Leopard
+195 R Savrios' Timeshifter
+196 U Skysovereign Griffin
+197 R Suzume Oshiruko
+198 R Vessel of Lost Souls
+199 U Worthy of the Name
+200 U Wretched Spawn
+201 U Cauldish Warmonger
+202 C Alenian Warhammer
+203 U Ambition's Crown
+204 U Ancient Guardstone
+205 C Angeltouched Golem
+206 U Bird Call
+207 C Bottled Fate
+208 U Bygone Blade
+209 R Convergence Colossus
+210 U Discordant Bell
+211 U Dusty Record
+212 R Gem of Ancient Treasures
+213 R Ghastly Ferry
+214 U Giltwork Legacy
+215 U Hundred-Year Blade
+216 U Imperial Silks
+217 U Mark of Majesty
+218 R Planar Processor
+219 U Rolling Homestead
+220 R Savrios' Masterpiece
+221 C Sentient Contraption
+222 C Stonework Infantry
+223 C Vanguard Blade
+224 C Wayfarer's Lantern
+225 U Alpine Meadow
+226 R Chroma, the Faerie Circle
+227 U Desolate Barrens
+228 C Dragonfly Shrine
+229 U Fiery Chasm
+230 U Forgotten Haunt
+231 U Highland Vale
+232 C Imperial Port
+233 U Jagged Crag
+234 U Rainforest Spring
+235 U Roaring Cascade
+236 U Skittersands
+237 U Sodden Cavern
+238 U Somber Marsh
+239 U Temple of Brilliance
+240 R Tezmodo, the Golden City
+241 U Tranquil Stream
+242 R Unzari Ruins
+243 U Wayfarer's Shrine
+1s S Avengeance Angel
+2s S Dreamsteel Paladin
+3s S Power Gate
+4s S Starbane Elemental
+5s S Crack in Time
+6s S Crossing the Fog
+7s S Mariner's Skill
+8s S Master of Minds
+9s S Spectrum Archmage
+10s S Stormwing Ultrateryx
+11s S Volta Hearth
+12s S Wisdom of the Leylines
+13s S Fickle Songstress
+14s S Magus of the Grave
+15s S Spike Wall Trap
+16s S Taken Away
+17s S Voidcaller's Ambition
+18s S Civilization's Cost
+19s S Oathbreaker Orc
+20s S Pyretic Cyclone
+21s S Beckon of the Wild
+22s S Okrophore
+23s S Restore Life
+24s S A Whole New World
+25s S Bile of the World
+26s S Crystal Wave
+27s S Entelan Deep Storage
+28s S Isphara, Spectrum Sovereign
+29s S Mizujutsu Master
+30s S Mpumo, Who Stands Alone
+31s S Penny and Pete
+32s S Rain Zai, Spiritscale
+33s S Rose of Fretport
+34s S Scrapyard Sovereign
+35s S Astral Gateway
+36s S Cage of Torment
+37s S Flawless Counterfeit
+
+[tokens]

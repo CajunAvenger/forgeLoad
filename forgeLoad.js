@@ -1,6 +1,5 @@
-//var cards = require('./msecards.json');
 var cards = require('./msem/cards.json');
-var setsArray = require('./msem/setData.json');
+var setData = require('./msem/setData.json');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
 var getDirName = require('path').dirname;
@@ -9,17 +8,34 @@ var cardList = Object.keys(cards);
 var i = 0;
 var fails = 0;
 var dfcCorrect = false;
-var generateSkeletons = true;
-var generateImages = true;
+var generateSkeletons = false;
+var generateImages = false;
+var generateEditions = false;
+var specified = false;
 var portedSets = [];
 
 if(process.argv[2] != undefined) {
 	if(process.argv.includes('-dfc')) //only export dfcs
 		dfcCorrect = true;
-	if(process.argv.includes('-f')) //only export text files
-		generateImages = false;
-	if(process.argv.includes('-i')) //only export card images
+	//export all if no argvs
+	//export argvs only if argvs
+	if(process.argv.includes('-f')) { //only export text files
+		generateSkeletons = true;
+		specified = true;
+	}
+	else if(process.argv.includes('-i')) { //only export card images
+		generateImages = true;
+		specified = true;
+	}
+	else if (process.argv.includes('-e')) { //only export edition files
+		generateEditions = true;
+		specified = true;
+	}
+	if(!specified) {
 		generateSkeletons = false;
+		generateImages = false;
+		generateEditions = false;
+	}
 	for(let arg in process.argv) { //only export specific sets
 		if(process.argv[arg].match(/^-?[A-Z0-9_]+$/)) {
 			portedSets.push(process.argv[arg].replace(/^-/, ""));
@@ -99,7 +115,7 @@ function forgeTokenName(card) {
 	if(card.power)
 		tokenName += card.power + "_" + card.toughness + "_";
 	tokenName += card.cardName += "_";
-	tokenName += pullTokenSet(card, setsArray);
+	tokenName += pullTokenSet(card, setData);
 	tokenName = tokenName.toLowerCase();
 	return tokenName;
 }
@@ -185,6 +201,56 @@ function forgeMana(cost) {
 	cost = cost.replace(/\//g, ""); //remove hybrid slashes
 	return cost;
 }
+function genEditionFiles() {
+	let hold = {};
+	let holdS = {};
+	for(let card in cards) {
+		let go = false
+		if(portedSets.length && portedSets.include(cards[card].setID))
+			go = true;
+		if(!portedSets.length && cards[card].setID != "tokens" && !setData[cards[card].setID].priceSkip)
+			go = true;
+		if(go) {
+			let set = cards[card].setID;
+			if(!hold.hasOwnProperty(set))
+				hold[set] = [];
+			let num = cards[card].cardID;
+			if(num.match(/s/)) {
+				num = num.replace(/s/, "");
+				if(!holdS.hasOwnProperty(set))
+					holdS[set] = [];
+				holdS[set][num] = card;
+			}else{
+				hold[set][num] = card;
+			}
+		}
+	}
+	for(let set in hold) {
+		let header = `[metadata]\n`;
+		header += `Code=${set}\n`;
+		header += `Date=${setData[set].releaseDate}\n`;
+		header += `Name=MSEM: ${setData[set].longname}\n`;
+		header += `Type=Other\n`;
+		header += `Booster=10 Common, 3 Uncommon, 1 RareMythic, 1 BasicLand\n\n`;
+		header += `[cards]\n`;
+		for(let i=0; i<= hold[set].length; i++) {
+			if(hold[set][i])
+				header += `${i} ${cards[hold[set][i]].rarity.substring(0,1).toUpperCase().replace("B", "S")} ${cards[hold[set][i]].cardName}\n`;
+		}
+		if(holdS[set]) {
+			for(let i=0; i<= holdS[set].length; i++) {
+				if(holdS[set][i])
+					header += `${i}s ${cards[holdS[set][i]].rarity.substring(0,1).toUpperCase().replace("B", "S")} ${cards[holdS[set][i]].cardName}\n`;
+			}
+		}
+		header += "\n[tokens]\n";
+		writeFile(`./editions/${set}.txt`, header, function(err) {
+			if(err)
+				throw err;
+			console.log(`editions/${set} written.`);
+		})
+	}
+}
 function downloadCard(errCount) {
 	if(i == cardList.length) {
 		console.log('Done!');
@@ -205,7 +271,7 @@ function downloadCard(errCount) {
 					isSkipped = false;
 				}
 			}else{
-				if(!portedSets.includes(pullTokenSet(cards[card], setsArray))) {
+				if(!portedSets.includes(pullTokenSet(cards[card], setData))) {
 					isSkipped = true;
 					i++;
 					card = cardList[i];
@@ -225,7 +291,7 @@ function downloadCard(errCount) {
 		if(generateSkeletons) {
 			let skeleName = card.replace(/_.+/, "").replace(/ /g, "_").replace(/\/\//g, "_").replace(/[-,\?!]/g, "").toLowerCase();
 			let skeleData = forgeSkeletonWriter(cards[card]);
-			let dir = "/" + pullTokenSet(cards[card], setsArray) + "/";
+			let dir = "/" + pullTokenSet(cards[card], setData) + "/";
 			if(!skeleData[1]) {
 				dir = "./skeletons" + dir;
 			}else{
@@ -289,4 +355,7 @@ function downloadCard(errCount) {
 		}
 	}
 }
-downloadCard(0)
+if(generateEditions)
+	genEditionFiles();
+if(generateImages || generateSkeletons)
+	downloadCard(0)
