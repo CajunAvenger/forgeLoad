@@ -2,7 +2,6 @@ var fs = require('fs');
 var mkdirp = require('mkdirp');
 var getDirName = require('path').dirname;
 var download = require('download-file');
-var cardList = Object.keys(cards);
 var website = "http://mse-modern.com/msem2/images/";
 var format = "msem";
 var i = 0;
@@ -47,6 +46,7 @@ if(process.argv[2] != undefined) {
 
 var cards = require(`./${format}/cards.json`);
 var setData = require(`./${format}/setData.json`);
+var cardList = Object.keys(cards);
 
 function writeFile(path, contents, cb) { //extra step to make sure directory exists and fix our apostrophes
 	mkdirp(getDirName(path), function (err) {
