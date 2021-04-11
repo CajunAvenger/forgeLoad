@@ -125,7 +125,7 @@ function forgeSkeletonWriter(card) {
 	let finished = false;
 	let skele = "";
 	skele += "Name:" + card.cardName;
-	skele += "\nManaCost:"+forgeMana(card.manaCost);
+	skele += "\nManaCost:"+forgeMana(card.manaCost ? card.manaCost : "no cost");
 	skele += "\nTypes:"+card.typeLine.replace(/ —/g, "");
 	if(card.power != "") {
 		skele += "\nPT:" + card.power + "/" + card.toughness;
