@@ -1,10 +1,10 @@
-var cards = require('./msem/cards.json');
-var setData = require('./msem/setData.json');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
 var getDirName = require('path').dirname;
 var download = require('download-file');
 var cardList = Object.keys(cards);
+var website = "http://mse-modern.com/msem2/images/";
+var format = "msem";
 var i = 0;
 var fails = 0;
 var dfcCorrect = false;
@@ -30,6 +30,10 @@ if(process.argv[2] != undefined) {
 		generateImages = true;
 	if(process.argv.includes('-e')) //only export edition files
 		generateEditions = true;
+	if(process.argv.includes('-rev')) { //export revolution instead
+		format = "revolution";
+		website = "https://revolution-manifesto.herokuapp.com/cards/";
+	}
 
 	for(let arg in process.argv) { //only export specific sets
 		if(process.argv[arg].match(/^-?[A-Z0-9_]+$/)) {
@@ -40,6 +44,9 @@ if(process.argv[2] != undefined) {
 	if(restartIndex >= 0)
 		i = process.argv[restartIndex+1]
 }
+
+var cards = require(`./${format}/cards.json`);
+var setData = require(`./${format}/setData.json`);
 
 function writeFile(path, contents, cb) { //extra step to make sure directory exists and fix our apostrophes
 	mkdirp(getDirName(path), function (err) {
@@ -296,7 +303,7 @@ function downloadCard(errCount) {
 		}
 		if(generateImages) {
 			let extension = cards[card].setID + "/" + cards[card].cardID;
-			let downloadLink = "http://mse-modern.com/msem2/images/" + extension + (cards[card].shape == "split" ? "b":"") + ".jpg";
+			let downloadLink = website + extension + (cards[card].shape == "split" ? "b":"") + ".jpg";
 			console.log("Downloading " + downloadLink);
 			let dest = cards[card].fullName.replace(/\//g,"");
 			if(cards[card].setID == "tokens")

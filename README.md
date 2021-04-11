@@ -7,6 +7,10 @@ Run `node forgeLoad` from the console to run the base program. It will run throu
 ### Arguments
 Adding arguments to the command line changes the behavior. These can be in any order or combination
 
+> -rev
+
+Runs Revolution instead of MSEM.
+
 > -dfc
 
 Only runs DFCs.
@@ -31,6 +35,6 @@ Only download cards from the given set. There can be multiple of these
 
 Restart the download from card ###, used when errors/lag cause the program to terminate early, in which case it will tell you which number to use here.
 
-So for example using `node forgeLoad -e EIA DSS` will generate the edition files for DSS and EIA.
+So for example using `node forgeLoad -e -rev` will generate the edition files for Revolution.
 
 Card images are saved within set folders in the 'images' folder, editions files get saved in the 'editions' folder, card skeletons are saved in set folders in the 'skeletons' folder, or to the 'completed' folder if they are vanilla/french vanilla creatures, which LackeyBot is able to code on its own.
