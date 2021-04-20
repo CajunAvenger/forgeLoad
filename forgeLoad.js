@@ -137,7 +137,7 @@ function forgeSkeletonWriter(card) {
 	finished = abils[1]; //if it's vanilla or french
 	skele += "Oracle:";
 	if(card.rulesText != "" && card.rulesText != "\n")
-		skele += card.rulesText.replace(/\n/g, "\\n").replace(/\*/g, "");
+		skele += card.rulesText.replace(/\n$/g, "").replace(/\n/g, "\\n").replace(/\*/g, "");
 	if(card.shape == "doubleface" || card.shape == "split") {
 		skele += "\n\nALTERNATE\n\n";
 		skele += "Name:" + card.cardName;
@@ -158,7 +158,7 @@ function forgeSkeletonWriter(card) {
 }
 function forgeAbilities(cardText, cardName) {
 	let finished = true;
-	let trimmedText = cardText.replace(/\([^)]+\)/g, "");
+	let trimmedText = cardText.replace(/\([^)]+\)/g, "").replace(/\n$/, "");
 	if(trimmedText == "" || trimmedText == "\n")
 		return ["", true];
 	let CARDNAME = new RegExp(cardName, 'g');
